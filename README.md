@@ -16,7 +16,7 @@ Restro-Solve is a state-of-the-art digital ordering platform designed to moderni
 
 ## 🔗 Live Demo
 Experience the live application hosted on Firebase CDN:
-👉 **[https://restro-solve-c314f.web.app](https://restro-solve-c314f.web.app)** or **[https://restro-solve-c314f.firebaseapp.com](https://restro-solve-c314f.firebaseapp.com)**
+👉 **[https://s3-restaurant-app.web.app/]** 
 
 ---
 
