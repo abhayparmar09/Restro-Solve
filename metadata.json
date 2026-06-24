@@ -1,0 +1,7 @@
+{
+  "name": "S3 Restaurant & Cafe",
+  "description": "A high-performance contactless QR ordering system for S3 Restaurant & Cafe featuring real-time kitchen tracking, dynamic menu management, and mobile-first customer ordering experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

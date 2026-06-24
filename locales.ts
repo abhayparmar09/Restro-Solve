@@ -1,0 +1,30 @@
+export const TRANSLATIONS = {
+    en: {
+        menu: "Menu",
+        itemsAdded: "YOUR CART",
+        billDetails: "BILL DETAILS",
+        itemTotal: "Item Total",
+        govtGst: "Govt. GST",
+        grandTotal: "Grand Total",
+        searchMenu: "Search Menu",
+        add: "ADD",
+        added: "ADDED",
+        allCategories: "All",
+        priceLowHigh: "Price: Low to High",
+        priceHighLow: "Price: High to Low",
+    },
+    hi: {
+        menu: "मेनू",
+        itemsAdded: "आपकी कार्ट",
+        billDetails: "बिल विवरण",
+        itemTotal: "आइटम कुल",
+        govtGst: "सरकारी GST",
+        grandTotal: "कुल योग",
+        searchMenu: "मेनू खोजें",
+        add: "जोड़ें",
+        added: "जुड़ गया",
+        allCategories: "सभी",
+        priceLowHigh: "कीमत: कम से अधिक",
+        priceHighLow: "कीमत: अधिक से कम",
+    }
+};
